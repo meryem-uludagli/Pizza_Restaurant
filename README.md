@@ -9,6 +9,7 @@ Welcome to the Pizza Restaurant! This project is a fully responsive web applicat
 - Online Ordering: Place orders directly on the website with an intuitive and easy-to-use form.
 - Reservation System: Make dining reservations with a simple and fast reservation form.
 - Interactive User Interface: Smooth navigation and interactive elements for an enhanced user experience.
+  
 # Used technologies 💻
 
 HTML: The structure of web pages.
@@ -16,6 +17,6 @@ HTML: The structure of web pages.
 CSS: Style and layout, including responsiveness.
 
 JavaScript: Dynamic behavior and interaction such as form validation and menu interactions
-# Preview:
 
+# Preview:
 ![](PizzaResturant.gif)
