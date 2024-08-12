@@ -19,4 +19,4 @@ CSS: Style and layout, including responsiveness.
 JavaScript: Dynamic behavior and interaction such as form validation and menu interactions
 
 # Preview:
-![](PizzaResturant.gif)
+
